@@ -4,71 +4,82 @@
         "ro": "{TIME} secunde",
         "es": "{TIME} segundo(s)",
         "pl": "{TIME} sekund(a/y)",
-        "de": "{TIME} sekunde(n)"
+        "de": "{TIME} sekunde(n)",
+        "zh-cn": "{TIME} 秒"
     },
     "minutes": {
         "en": "{TIME} minute(s)",
         "ro": "{TIME} minut(e)",
         "es": "{TIME} minuto(s)",
         "pl": "{TIME} minut(a/y)",
-        "de": "{TIME} minute(n)"
+        "de": "{TIME} minute(n)",
+        "zh-cn": "{TIME} 分"
     },
     "hours": {
         "en": "{TIME} hour(s)",
         "ro": "{TIME} ore",
         "es": "{TIME} hora(s)",
         "pl": "{TIME} godzin(a/y)",
-        "de": "{TIME} stunde(n)"
+        "de": "{TIME} stunde(n)",
+        "zh-cn": "{TIME} 时"
     },
     "days": {
         "en": "{TIME} day(s)",
         "ro": "{TIME} zi(le)",
         "es": "{TIME} día(s)",
         "pl": "{TIME} dzień/dni",
-        "de": "{TIME} tag(e)"
+        "de": "{TIME} tag(e)",
+        "zh-cn": "{TIME} 天"
     },
     "forever": {
         "en": "Forever",
         "ro": "Pentru totdeauna",
         "es": "Para siempre",
         "pl": "Na zawsze",
-        "de": "Für immer"
+        "de": "Für immer",
+        "zh-cn": "永久"
     },
     "never": {
         "en": "Never",
         "ro": "Niciodată",
         "es": "Nunca",
         "pl": "Nigdy",
-        "de": "Niemals"
+        "de": "Niemals",
+        "zh-cn": "从不"
     },
     "menu.next": {
         "en": "Next",
         "ro": "Următorul",
         "pl": "Następny",
-        "de": "Nächstes"
+        "de": "Nächstes",
+        "zh-cn": "下一页"
     },
     "menu.back": {
         "en": "Back",
         "ro": "Înapoi",
         "pl": "Wstecz",
-        "de": "Zurück"
+        "de": "Zurück",
+        "zh-cn": "返回"
     },
     "menu.exit": {
         "en": "Exit",
         "ro": "Ieșire",
         "pl": "Wyjście",
-        "de": "Beenden"
+        "de": "Beenden",
+        "zh-cn": "退出"
     },
     "menu.footer": {
         "en": "{CYCLE_BUTTON} - Cycle | {USE_BUTTON} - Select | Page {PAGE}/{MAXPAGES}",
         "ro": "{CYCLE_BUTTON} - Schimbă | {USE_BUTTON} - Selectează | Pagina {PAGE}/{MAXPAGES}",
         "pl": "{CYCLE_BUTTON} - Przeglądaj | {USE_BUTTON} - Wybierz | Strona {PAGE}/{MAXPAGES}",
-        "de": "{CYCLE_BUTTON} - Durchblättern | {USE_BUTTON} - Auswählen | Seite {PAGE}/{MAXPAGES}"
+        "de": "{CYCLE_BUTTON} - Durchblättern | {USE_BUTTON} - Auswählen | Seite {PAGE}/{MAXPAGES}",
+        "zh-cn": "{CYCLE_BUTTON} - 浏览 | {USE_BUTTON} - 选择 | 页数 {PAGE}/{MAXPAGES}"
     },
     "menu.footer.nooption": {
         "en": "{CYCLE_BUTTON} - Cycle | {USE_BUTTON} - Select | {EXIT_BUTTON} - Exit | Page {PAGE}/{MAXPAGES}",
         "ro": "{CYCLE_BUTTON} - Schimbă | {USE_BUTTON} - Selectează | {EXIT_BUTTON} - Ieșire | Pagina {PAGE}/{MAXPAGES}",
         "pl": "{CYCLE_BUTTON} - Przeglądaj | {USE_BUTTON} - Wybierz | {EXIT_BUTTON} - Wyjście | Strona {PAGE}/{MAXPAGES}",
-        "de": "{CYCLE_BUTTON} - Durchblättern | {USE_BUTTON} - Auswählen | {EXIT_BUTTON} - Beenden | Seite {PAGE}/{MAXPAGES}"
+        "de": "{CYCLE_BUTTON} - Durchblättern | {USE_BUTTON} - Auswählen | {EXIT_BUTTON} - Beenden | Seite {PAGE}/{MAXPAGES}",
+        "zh-cn": "{CYCLE_BUTTON} - 浏览 | {USE_BUTTON} - 选择 | {EXIT_BUTTON} - 退出 | 页数 {PAGE}/{MAXPAGES}"
     }
 }
